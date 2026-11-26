@@ -1,93 +1,84 @@
+<!-- HERO BANNER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Praveen+Kumar+Saini+👋;Full-Stack+Developer+%7C+Space+Tech;Compiler+Design+%7C+FinTech+%7C+AI;Building+the+Future+🚀" alt="Praveen Kumar Saini" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=12,20,24&text=PRAVEEN%20KUMAR%20SAINI&fontSize=42&fontColor=A78BFA&animation=fadeIn&fontAlignY=55&desc=Building%20at%20the%20intersection%20of%20AI%2C%20Systems%20%26%20the%20Stars&descColor=06B6D4&descSize=16&descAlignY=72" width="100%" />
+
+</div>
+
+<!-- TYPING SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=Compiler+Engineer+%E2%80%94+I+speak+machine;AI+Architect+%E2%80%94+I+speak+future;Full-Stack+Engineer+%E2%80%94+I+speak+product;Space+Tech+Enthusiast+%E2%80%94+I+speak+cosmos" alt="Typing SVG" />
+</div>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Praveenkumarsaini14?label=Followers&style=for-the-badge&color=A78BFA)](https://github.com/Praveenkumarsaini14)
-[![GitHub stars](https://img.shields.io/github/stars/Praveenkumarsaini14?label=Total%20Stars&style=for-the-badge&color=F7A800)](https://github.com/Praveenkumarsaini14)
-![Profile Views](https://komarev.com/ghpvc/?username=Praveenkumarsaini14&color=A78BFA&style=for-the-badge)
+<!-- CINEMATIC INTRO -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Some write code. I architect universes.                     ║
+║  From x86-64 silicon to lunar orbit trajectories —          ║
+║  every abstraction layer is a canvas.                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+**CS Engineering Student · India**  
+*Turning caffeine and curiosity into compilers, AI systems, and financial equity tools*
+
+[![GitHub followers](https://img.shields.io/github/followers/Praveenkumarsaini14?style=flat&color=A78BFA&labelColor=0D1117&logo=github&logoColor=A78BFA)](https://github.com/Praveenkumarsaini14)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Praveenkumarsaini14&style=flat&color=06B6D4&labelColor=0D1117&label=PROFILE+VIEWS)](https://github.com/Praveenkumarsaini14)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```python
-class PraveenKumarSaini:
-    name       = "Praveen Kumar Saini"
-    username   = "Praveenkumarsaini14"
-    role       = "Full-Stack Developer & Space Tech Enthusiast"
-    location   = "India 🇮🇳"
-    
-    interests  = [
-        "🌙 Space Technology & Lunar Exploration",
-        "⚡ Compiler Design & Programming Languages",
-        "💸 FinTech & Microfinance Innovation",
-        "🤖 AI/ML Applications",
-        "🚀 Hackathon Projects"
-    ]
-    
-    currently  = "Building Cobra — a Python-syntax compiled language in C/C++"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
-```
-
----
-
-## 🚀 Featured Projects
+<!-- ABOUT -->
+## `> whoami`
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🌙 Luna Scope
-> AI-powered lunar landing site selection using real NASA data
+I build things that matter — from low-level compilers that generate real x86-64 machine code, to AI systems that guide spacecraft, to fintech tools that extend credit to the people who need it most.
 
-- 🔭 Analyzes 12+ South Pole candidate sites
-- 📡 Real NASA LROC & JPL ephemeris data
-- 🏆 Trivonix Space Challenge Project
+My stack spans the entire hierarchy of computing:
+- **Below the OS** → compiler design, assembly, memory models  
+- **At the application layer** → React, FastAPI, Python, C/C++  
+- **At the intelligence layer** → ML, computer vision, decision systems  
+- **At the domain layer** → space tech, fintech, systems design
 
-[![Frontend](https://img.shields.io/badge/Frontend-React+Vite-61DAFB?style=flat-square&logo=react)](https://github.com/Praveenkumarsaini14/luna-scope-frontend)
-[![Backend](https://img.shields.io/badge/Backend-Python+FastAPI-009688?style=flat-square&logo=fastapi)](https://github.com/Praveenkumarsaini14/luna-scope-backend)
-
-</td>
-<td width="50%">
-
-### 🐍 Cobra Language
-> Python-syntax language that compiles to x86-64 native code
-
-- ⚡ C-level performance, Python-like syntax
-- 🔧 Built from scratch in C/C++
-- 🚫 Zero external dependencies
-
-[![Cobra](https://img.shields.io/badge/Language-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B)](https://github.com/Praveenkumarsaini14/Cobra)
+I don't follow trends. I study fundamentals — because the people who understand foundations are the ones who build the next layer.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="45%" valign="top">
 
-### 💸 EquiFlow
-> AI-powered microfinance dynamic loan restructuring dashboard
-
-- 📊 Cash-flow linked EMI adjustment
-- 🤖 AI solvency prediction (30-day ahead)
-- 🌍 Targets 1.4B unbanked population
-
-[![EquiFlow](https://img.shields.io/badge/Stack-Python+HTML-10b981?style=flat-square&logo=python)](https://github.com/Praveenkumarsaini14/equiflow)
-
-</td>
-<td width="50%">
-
-### 🌟 More Coming Soon...
-> Always building, always learning
-
-- 🔨 New projects in progress
-- 💡 Open to collaborations
-- 📬 Reach out anytime!
+```python
+class Praveen:
+    alias     = "Praveen-aatma"
+    location  = "India 🇮🇳"
+    
+    interests = [
+        "Compiler Design",
+        "Artificial Intelligence", 
+        "Full-Stack Engineering",
+        "Space Technology",
+        "Fintech & Financial Equity",
+    ]
+    
+    currently_building = [
+        "Luna Scope v2 — real-time telemetry",
+        "Cobra language — generics + stdlib",
+        "EquiFlow — ML credit scoring",
+    ]
+    
+    philosophy = "Make it work, make it right, make it fast"
+```
 
 </td>
 </tr>
@@ -95,80 +86,323 @@ class PraveenKumarSaini:
 
 ---
 
-## 🛠️ Tech Stack
+<!-- FEATURED PROJECTS -->
+## `> ls -la ~/projects/`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### `🌕 Luna Scope`
+**AI Lunar Landing Site Selector**
+
+---
+
+<img src="https://img.shields.io/badge/Status-Active-06B6D4?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Stack-React%20%2B%20FastAPI-A78BFA?style=flat&labelColor=0D1117" />
+
+</div>
+
+---
+
+Ingests NASA LROC, GRAIL, and LOLA mission datasets to score and rank potential lunar landing zones using multi-factor AI analysis.
+
+**What makes it special:**
+- Real NASA mission data integration
+- Terrain hazard scoring engine
+- Interactive 3D lunar surface viz
+- Mission-ready site reports
+
+**Tech:** `React` `FastAPI` `Python` `NASA APIs` `Leaflet.js` `scikit-learn`
+
+<div align="center">
+
+[`→ View Repository`](https://github.com/Praveenkumarsaini14/luna-scope)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### `🐍 Cobra`
+**Python-Syntax → x86-64 Compiler**
+
+---
+
+<img src="https://img.shields.io/badge/Status-Active-06B6D4?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Stack-C%2FC%2B%2B-F7A800?style=flat&labelColor=0D1117" />
+
+</div>
+
+---
+
+A fully hand-crafted compiler pipeline that takes Python-like syntax and emits native x86-64 assembly — zero external parser generators, zero LLVM.
+
+**What makes it special:**
+- Hand-written recursive descent parser
+- Full AST with semantic analysis
+- Direct x86-64 machine code output
+- C-level performance from Python syntax
+
+**Tech:** `C` `C++` `x86-64 ASM` `ELF` `NASM` `GNU ld`
+
+<div align="center">
+
+[`→ View Repository`](https://github.com/Praveenkumarsaini14/Cobra)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### `💸 EquiFlow`
+**AI Microfinance Dashboard**
+
+---
+
+<img src="https://img.shields.io/badge/Status-Active-06B6D4?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Stack-Python%20%2B%20ML-A78BFA?style=flat&labelColor=0D1117" />
+
+</div>
+
+---
+
+Tackles financial exclusion for 1.4B unbanked individuals by using AI to dynamically restructure loan EMIs based on real cash-flow patterns.
+
+**What makes it special:**
+- Seasonal income-aware EMI adjustment
+- Risk scoring without traditional credit history
+- Real-time loan health dashboard
+- UN SDG-aligned impact metrics
+
+**Tech:** `Python` `scikit-learn` `Pandas` `HTML/CSS/JS` `Chart.js`
+
+<div align="center">
+
+[`→ View Repository`](https://github.com/Praveenkumarsaini14/equiflow)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECH STACK -->
+## `> cat tech_stack.json`
 
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table>
+<tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=python" width="45" /><br/>
+  <sub><b>Python</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" /><br/>
+  <sub><b>C / C++</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=js" width="45" /><br/>
+  <sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=ts" width="45" /><br/>
+  <sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=bash" width="45" /><br/>
+  <sub><b>Bash</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=html" width="45" /><br/>
+  <sub><b>HTML / CSS</b></sub>
+</td>
+</tr>
+</table>
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+### Frameworks & Runtimes
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+<tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=react" width="45" /><br/>
+  <sub><b>React</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="45" /><br/>
+  <sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br/>
+  <sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=vite" width="45" /><br/>
+  <sub><b>Vite</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" /><br/>
+  <sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=flask" width="45" /><br/>
+  <sub><b>Flask</b></sub>
+</td>
+</tr>
+</table>
+
+### Infrastructure & Tools
+
+<table>
+<tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=docker" width="45" /><br/>
+  <sub><b>Docker</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=git" width="45" /><br/>
+  <sub><b>Git</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=linux" width="45" /><br/>
+  <sub><b>Linux</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=github" width="45" /><br/>
+  <sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=postgres" width="45" /><br/>
+  <sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=redis" width="45" /><br/>
+  <sub><b>Redis</b></sub>
+</td>
+</tr>
+</table>
+
+### AI / ML
+
+<table>
+<tr>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="45" /><br/>
+  <sub><b>PyTorch</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45" /><br/>
+  <sub><b>TensorFlow</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=opencv" width="45" /><br/>
+  <sub><b>OpenCV</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /><br/>
+  <sub><b>sklearn</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" /><br/>
+  <sub><b>Pandas</b></sub>
+</td>
+<td align="center" width="90">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" /><br/>
+  <sub><b>NumPy</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- CURRENTLY BUILDING -->
+## `> tail -f /var/log/currently_building.log`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarsaini14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarsaini14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+| Project | Phase | Focus |
+|:--------|:------|:------|
+| 🌕 **Luna Scope v2** | `active development` | Real-time telemetry overlay, mission simulation mode |
+| 🐍 **Cobra Language** | `active development` | Generic type system, standard library bootstrap |
+| 💸 **EquiFlow** | `active development` | ML credit scoring model, mobile-first UI overhaul |
+| ⚡ **Systems Research** | `exploration` | RISC-V target backend for Cobra |
 
 </div>
 
+> *Last updated: November 2026 — things change fast here.*
+
+---
+
+<!-- GITHUB STATS -->
+## `> git log --stat`
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Praveenkumarsaini14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/Praveenkumarsaini14">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Praveenkumarsaini14&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=06B6D4&text_color=C9D1D9&bg_color=0D1117&ring_color=A78BFA&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Praveenkumarsaini14">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumarsaini14&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Praveenkumarsaini14&theme=transparent&hide_border=true&ring=A78BFA&fire=F7A800&currStreakLabel=06B6D4&sideLabels=A78BFA&dates=666E7A&background=0D1117" width="500" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- CONNECT -->
+## `> ping praveen`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Praveenkumarsaini14&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+*I'm always open to interesting problems — from "can you help debug this?" to "want to build something that changes the world?"*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/praveen-kumar-saini-/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:praveenkumarsaini14@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Praveenkumarsaini14)
+
+<br/>
 
 </div>
 
 ---
 
-## 📬 Connect with Me
+<!-- CLOSING -->
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Praveenkumarsaini14-181717?style=for-the-badge&logo=github)](https://github.com/Praveenkumarsaini14)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:134903483+Praveenkumarsaini14@users.noreply.github.com)
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   "The universe compiles in silence.                              ║
+║    I'm just trying to understand its source code."               ║
+║                                                                   ║
+║                                              — Praveen-aatma      ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-</div>
-
----
-
-<div align="center">
-
-**"First, solve the problem. Then, write the code." — John Johnson**
-
-🌙 *Currently exploring lunar surfaces and compiling languages* 🚀
-
-⭐ **If you like my work, consider starring my repos!** ⭐
+<sub>Crafted with intent · Engineered with purpose · Deployed with precision</sub>
 
 </div>
